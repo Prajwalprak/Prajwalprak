@@ -1,5 +1,5 @@
-### Hi there 👋
-
+<h1 align="center">Hi 👋, I'm Prajwal Naik 😎</h1>
+<h3 align="center">A Java Enthusiast</h3>
 <!--
 **Prajwalprak/Prajwalprak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
