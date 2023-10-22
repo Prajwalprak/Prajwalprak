@@ -1,4 +1,8 @@
-<h1 align="center">Hi 👋, I'm Prajwal Naik 😎</h1>
+<p align="center">
+<a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+World;+I'm+Prajwal+Naik!;&center=true&size=30">
+</a>
+</p>
 <h3 align="center">A Java Enthusiast</h3>
 <h3 align="center">🐞</>💻🛠️</h3>
 
