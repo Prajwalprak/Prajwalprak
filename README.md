@@ -9,7 +9,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Prajwalprak&label=Profile%20views&color=0e75b6&style=flat" alt="Prajwalprak" /> </p>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 
-
 <!--
 
 **Prajwalprak/Prajwalprak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
