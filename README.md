@@ -3,7 +3,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+World;+I'm+Prajwal+Naik!;&center=true&size=30">
 </a>
 </p>
-<h3 align="center">A Java Enthusiast</h3>
+<h3 align="center">A Java & Flutter Enthusiast</h3>
 <h3 align="center">🐞</>💻🛠️</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Prajwalprak&label=Profile%20views&color=0e75b6&style=flat" alt="Prajwalprak" /> </p>
